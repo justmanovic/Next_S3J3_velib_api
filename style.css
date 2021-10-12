@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+}
+
+
+ul {
+  padding: 0.25rem;
+}
+#mapid { height: 100%; }
