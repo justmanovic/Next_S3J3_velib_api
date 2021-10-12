@@ -45,5 +45,5 @@ mymap.addLayer(osmLayer);
 
 getVelibStations()
 
-setInterval(getVelibStations, 5000)
+setInterval(getVelibStations, 60000)
 
